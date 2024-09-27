@@ -1,2 +1,0 @@
-# React-Practice
-React Basics
